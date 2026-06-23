@@ -1,0 +1,4 @@
+.env
+#--- Datos crudos
+#data/
+#*.csv
